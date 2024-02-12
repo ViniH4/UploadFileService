@@ -1,3 +1,6 @@
+arquivos/
+tsconfig.json
+
 # Logs
 logs
 *.log
